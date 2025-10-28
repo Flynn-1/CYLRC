@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 Key Features
-- 🏦 **Fixed Max Supply:** 21,000,000 CYLRC (6 decimals)
+- 🏦 **Fixed Max Supply:** 200,000,000 CYLRC (6 decimals)
 - 💰 **Reward Pool:** 25% reserved for daily claimable rewards
 - 🔁 **Dual APY Modes:**
   - Inflation-based APY (auto-adjusts to token inflation)
@@ -41,8 +41,8 @@
 ---
 
 ### 📈 Tokenomics
-- **Max Supply:** 21,000,000 CYLRC  
-- **Initial Mint:** 75% (to admin)  
+- **Max Supply:** 200,000,000 CYLRC  
+- **Initial Mint:** 75% (to Circulation)  
 - **Reward Pool:** 25% (for holders)  
 - **Decimals:** 6  
 
