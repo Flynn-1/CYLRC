@@ -43,7 +43,8 @@
 ### 📈 Tokenomics
 - **Max Supply:** 200,000,000 CYLRC  
 - **Initial Mint:** 75% (to Circulation)  
-- **Reward Pool:** 25% (for holders)  
+- **Reward Pool:** 15% (for holders)
+- **Pre AirDrop:** 10% (for Early investor)
 - **Decimals:** 6  
 
 ---
