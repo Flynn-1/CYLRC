@@ -57,33 +57,7 @@
 
 ---
 
-            ┌──────────────────────────────┐
-            │        ADMIN ROLE            │
-            ├──────────────────────────────┤
-            │ Configure burn & APY         │
-            │ Mint new tokens              │
-            │ Manage reward pool           │
-            │ Airdrop tokens               │
-            │ Pause/resume rewards/burn    │
-            │ Transfer admin rights        │
-            └────────────┬─────────────────┘
-                         │
-     ┌───────────────────┴───────────────────┐
-     │                                       │
-┌──────────────┐                      ┌──────────────┐
-│ Regular User │                      │ BURN_ROLE    │
-├──────────────┤                      ├──────────────┤
-│ Deposit tokens│                     │ Trigger burn │
-│ Claim rewards │                     │ Burn deposits│
-└──────┬────────┘                      └──────┬──────┘
-       │                                       │
-       ▼                                       ▼
-┌────────────────────┐              ┌────────────────────┐
-│ Contract Balance   │◄────────────┤ Burn or Reward Pool │
-│ (Holds Deposits +  │              └────────────────────┘
-│ Reward Tokens)     │
-└────────────────────┘
-
+<img width="1536" height="1024" alt="Diagram" src="https://github.com/user-attachments/assets/89d27eb5-87e6-498b-ab59-99590afbfad2" />
 
 
 
